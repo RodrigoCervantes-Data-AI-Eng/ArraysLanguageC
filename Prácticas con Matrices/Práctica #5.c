@@ -1,6 +1,6 @@
 /*
-Este programa representa a las reservaciones de asientos de una compañia aerea con sus normas
-IRVIN ELI MORENO CORONA 2PRBM
+Este programa representa a las reservaciones de asientos de una compaÃ±ia aerea con sus normas
+Cervantes Martinez Rodrigo Fabian 2PRBM
 24/MAYO/2020
 */
 #include<stdio.h>
