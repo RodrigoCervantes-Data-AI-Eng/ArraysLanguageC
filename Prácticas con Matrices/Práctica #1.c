@@ -1,6 +1,6 @@
 /*
 Este programa selecciona las califs. mas altas para que se muestren que el alumno acredito el curso con tal calificacion
-IRVIN ELI MORENO CORONA  2PRBM
+Cervantes Martinez Rodrigo Fabian  2PRBM
 23/MAYO/2020
 */
 #include <stdio.h>
