@@ -1,6 +1,6 @@
 /*
 Este programa hace lo que selecciones en el menu de opciones en la sala de teatro
-IRVIN ELI MORENO CORONA 2PRBM
+Cervantes Martinez Rodrigo Fabian 2PRBM
 24/MAYO/2020
 */
 #include <stdio.h>
