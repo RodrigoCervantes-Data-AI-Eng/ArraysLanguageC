@@ -1,5 +1,5 @@
 //Este programa simula el funcionamiento de una pila, donde puedes colocar datos y sacarlos para volver a llenar la pila
-//IRVIN ELÍ MORENO CORONA  2PRBM
+//Cervantes Martinez Rodrigo Fabian  2PRBM
 //13/MAYO/2020
 
 
@@ -62,7 +62,7 @@ void main()
 			    	}
 			    }
 				break;
-			//Opción de salir.
+			//OpciÃ³n de salir.
 			case 3:
 		    	printf("\n\n\t\tFINAL DEL PROGRAMA\n\n");
 		    	system("pause\n\n");
