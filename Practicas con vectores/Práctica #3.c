@@ -1,5 +1,5 @@
 //Este programa coloca una fila de 20 personas y muestra si los lugares estan libres u ocupados
-//IRVIN ELÍ MORENO CORONA  2PRBM
+//Cervantes Martinez Rodrigo Fabian  2PRBM
 //13/MAYO/2020
 
 #include<stdio.h>
