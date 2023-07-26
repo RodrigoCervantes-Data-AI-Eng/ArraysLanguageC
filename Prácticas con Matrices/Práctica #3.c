@@ -1,6 +1,6 @@
 /*
 Este programa imita a unas reservaciones de asientos en una sala de cine
-IRVIN ELI MORENO CORONA 2PRBM
+Cervantes Martinez Rodrigo Fabian 2PRBM
 23 de Mayo del 2020
 */
 #include <stdio.h>
