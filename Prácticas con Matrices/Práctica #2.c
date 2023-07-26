@@ -1,6 +1,6 @@
 /*
 El programa calcula el promedio de los alumnos y determina la mencion que obtienen en base a su promedio
-IRVIN ELI MORENO CORONA  2PRBM
+Cervantes Martinez Rodrigo Fabian  2PRBM
 23/MAYO/2020
 */
 #include <stdio.h>
