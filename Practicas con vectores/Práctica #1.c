@@ -1,5 +1,5 @@
 //El programa crea un estacionamiento donde puedes estacionar tu auto y lo registra, tambien puedes sacar tu auto y queda libre el espacio
-//Cervantes Martinez Rodrigo Fabian
+//Cervantes Martinez Rodrigo Fabian 2PRBM
 //13/MAYO/2020
 
 #include<stdio.h>
