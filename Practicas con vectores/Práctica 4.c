@@ -1,5 +1,5 @@
 //Este programa registra 15 numeros y los ordena en PARES de menor a mayor e IMPARES de mayor a menor
-//IRVIN ELÍ MORENO CORONA  2PRBM
+//Cervantes Martinez Rodrigo Fabian  2PRBM
 //12/MAYO/2020
 
 #include <stdio.h>
